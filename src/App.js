@@ -6,10 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>
-          Edit <code>src/App.js</code> Kita coba test disini ya bang
-        
-        </h1>
+        <h3>
+          Edit <code>src/App.js</code> Kita Test disini ya wak
+
+        </h3>
         <a
           className="App-link"
           href="https://reactjs.org"
